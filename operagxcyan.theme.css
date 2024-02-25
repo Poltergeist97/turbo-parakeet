@@ -14,9 +14,9 @@
 :root {
   --background: url('https://cdn.discordapp.com/attachments/1045691215330422864/1055544062213636196/grayscale.png');
   --background-behind-appmount: 8, 5, 14;
-  --background-accent-color-1: 67,222,217,1;
+  --background-accent-color-1: 255,255,255,0;
   --accent-color-1: 67,222,217;
-  --accent-color-2: 67,222,217;
+  --accent-color-2: 0,234,220;
   --border-brightness: 1;
   --dark-background-color: 18, 16, 25;
   --darker-background-color: 8, 5, 14;
@@ -62,5 +62,6 @@
 }
 
 /* Any custom CSS below here */
+
 
 
