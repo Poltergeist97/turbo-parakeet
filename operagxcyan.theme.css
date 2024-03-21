@@ -3,10 +3,10 @@
 
 :root {
   --background: url('https://cdn.discordapp.com/attachments/1045691215330422864/1055544062213636196/grayscale.png');
-  --background-behind-appmount: 0,233,240,1;
-  --background-accent-color-1: 0,162,212,0;
+  --background-behind-appmount: 0,230,209,1;
+  --background-accent-color-1: 0,0,0,1;
   --accent-color-1: 0,233,225;
-  --accent-color-2: 0,234,220;
+  --accent-color-2: 0,229,215;
   --border-brightness: 1;
   --dark-background-color: 0,0,0;
   --darker-background-color: 0,0,0;
