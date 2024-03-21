@@ -1,25 +1,15 @@
-/**
- * @name Opera GX Cyan
- * @author Hawk#4872
- * @version 1
- * @description A highly customizable theme based off of the OperaGX browser.
- * @source https://github.com/L-Ratio/OperaGXTheme
- * @invite Xn7UUQUHbN
- * @BDEditor OperaGX Theme
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
 
 :root {
   --background: url('https://cdn.discordapp.com/attachments/1045691215330422864/1055544062213636196/grayscale.png');
-  --background-behind-appmount: 8, 5, 14;
-  --background-accent-color-1: 255,255,255,0;
-  --accent-color-1: 67,222,217;
+  --background-behind-appmount: 0,233,240,1;
+  --background-accent-color-1: 0,162,212,0;
+  --accent-color-1: 0,233,225;
   --accent-color-2: 0,234,220;
   --border-brightness: 1;
-  --dark-background-color: 18, 16, 25;
-  --darker-background-color: 8, 5, 14;
+  --dark-background-color: 0,0,0;
+  --darker-background-color: 0,0,0;
   --wintitlebar-transparency: 0.7;
   --header-transparency: 0.5;
   --serverlist-transparency: 0.5;
@@ -62,6 +52,5 @@
 }
 
 /* Any custom CSS below here */
-
 
 
