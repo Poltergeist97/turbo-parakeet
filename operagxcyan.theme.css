@@ -2,14 +2,14 @@
 @import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
 
 :root {
-  --background: url('https://cdn.discordapp.com/attachments/1045691215330422864/1055544062213636196/grayscale.png');
-  --background-behind-appmount: 0,230,209,1;
-  --background-accent-color-1: 0,0,0,1;
-  --accent-color-1: 0,233,225;
-  --accent-color-2: 0,229,215;
+  --background: url('https://i.imgur.com/9wxpbVw.png');
+  --background-behind-appmount: 8, 5, 14;
+  --background-accent-color-1: 0,229,216,1;
+  --accent-color-1: 0,229,216;
+  --accent-color-2: 0,229,216;
   --border-brightness: 1;
-  --dark-background-color: 0,0,0;
-  --darker-background-color: 0,0,0;
+  --dark-background-color: 18, 16, 25 ;
+  --darker-background-color: 8, 5, 14;
   --wintitlebar-transparency: 0.7;
   --header-transparency: 0.5;
   --serverlist-transparency: 0.5;
@@ -23,7 +23,7 @@
   --chat-background-blur: 0px;
   --memberlist-background-blur: 0px;
   --customFont: Nunito Sans;
-  --codeBlocksCustomFont: Chakra Petch;
+  --codeBlocksCustomFont: Nunito Sans;
   --fullwhite-font: 250, 253, 255;
   --normal-font: 201, 203, 206;
   --normal-hover-font: 238, 239, 240;
