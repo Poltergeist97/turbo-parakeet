@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
+
 :root {
   --background: url('https://i.imgur.com/9wxpbVw.png');
   --background-behind-appmount: 8, 5, 14;
@@ -5,7 +8,7 @@
   --accent-color-1: 0,229,216;
   --accent-color-2: 0,229,216;
   --border-brightness: 1;
-  --dark-background-color: 18, 16, 25 ;
+  --dark-background-color: 18, 16, 25;
   --darker-background-color: 8, 5, 14;
   --wintitlebar-transparency: 0.7;
   --header-transparency: 0.5;
@@ -47,3 +50,7 @@
   --chat-transparency-color: var(--dark-background-color);
   --memberlist-transparency-color: var(--dark-background-color);
 }
+
+/* Any custom CSS below here */
+
+
